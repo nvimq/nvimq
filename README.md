@@ -2,14 +2,14 @@
 
 # nvimq - Nurdaulet Bolat
 
-**Senior DevSecOps & Platform Engineer | AWS | Kubernetes | Terraform | 7+ yrs | Cloud Architecture**
+**Senior SRE, Platform and DevSecOps Engineer | AWS | Kubernetes | Terraform | 8 yrs | Cloud Architecture**
 
-Hi, I'm nvimq - a Senior DevSecOps / Platform Engineer with 7+ years of experience across FinTech, SaaS, and e-commerce. I build resilient cloud architectures, Kubernetes platforms, and CI/CD pipelines where uptime and clean releases are non-negotiable.
+Hi, I'm nvimq - a Senior SRE, Platform and DevSecOps Engineer with 8 years of experience across FinTech, SaaS, and e-commerce. I build resilient cloud architectures, Kubernetes platforms, and CI/CD pipelines where uptime and clean releases are non-negotiable.
 
 ---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://nvimq.is-a.dev/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:nvimgolang@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:nvimq.gitlab.io@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/nvimq)
 [![GitLab](https://img.shields.io/badge/GitLab-0d1117?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/nvimq)
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nvimq)
@@ -21,27 +21,62 @@ Hi, I'm nvimq - a Senior DevSecOps / Platform Engineer with 7+ years of experien
 
 My engineering philosophy is simple: Infrastructure as Code starts every system, and security is built-in from day one.
 
-### What I Do
+### 💼 What I Do
 
 - **Platform Engineering & GitOps:** I design self-service developer portals using Backstage and Crossplane. GitOps (ArgoCD/Flux) drives all releases, making rollbacks as simple as a git revert.
 - **Cloud & Architecture:** Extensive multi-account AWS environments (Terraform/OpenTofu, Terragrunt, AWS Organizations) built on least-privilege principles, cutting IAM escalation risks by 80%.
 - **Kubernetes & Network Security:** I own the full K8s lifecycle (EKS). From cluster architecture and Karpenter scaling to eBPF-powered Cilium networking and Istio service meshes. Policy-as-Code (Kyverno, OPA) blocks drift and misconfigurations before they apply.
-- **DevSecOps:** Security is a gate, not an afterthought. SonarQube, Trivy, and Gitleaks are embedded deep into GitLab CI, catching 95% of vulnerabilities pre-production. Dynamic secrets are handled seamlessly by HashiCorp Vault.
-- **SRE & Observability:** Architected around SLIs and SLOs. A unified stack of Prometheus, Grafana, OpenTelemetry, and VictoriaMetrics delivers correlated metrics and traces that predict incidents and slash MTTR.
+- **DevSecOps:** Security is a gate, not an afterthought. SonarQube, Trivy, and Gitleaks are embedded deep into GitLab CI so vulnerabilities surface before production, not after. Dynamic secrets are handled by HashiCorp Vault.
+- **SRE & Observability:** Architected around SLIs and SLOs. A unified stack of Prometheus, Grafana, OpenTelemetry, and VictoriaMetrics gives correlated metrics and traces, which is what actually cuts detection time and MTTR.
 - **Resiliency:** Disaster recovery is proven, not theoretical. I have rebuilt production environments after full provider-side data loss and engineered automated restore testing so it never repeats.
 
 ---
 
-### Core Tech Stack
+### 🛠️ Core Tech Stack
 
-- **Cloud & IaC:** AWS, GCP, Azure, Terraform, OpenTofu, Terragrunt, Crossplane
-- **Containers & Orchestration:** Kubernetes, EKS, Cilium (eBPF), Istio, Karpenter, Helm
-- **GitOps & CI/CD:** ArgoCD, Flux, GitLab CI, Jenkins
-- **Security & Policy:** HashiCorp Vault, Kyverno, OPA, Checkov, Trivy, IAM SCPs
-- **Observability:** Prometheus, Grafana, OpenTelemetry, Loki, VictoriaMetrics
-- **Data & Messaging:** PostgreSQL, Redis, Elasticsearch, ClickHouse, Kafka, Strimzi
-- **Languages:** Golang, Python, Bash
+- **Cloud & IaC:** AWS, Azure, Terraform, OpenTofu, Terragrunt, Crossplane, Packer, Ansible, Cloudflare
+- **Containers & Orchestration:** Kubernetes (EKS/AKS), containerd, Helm, ArgoCD, Flux, Kyverno
+- **Networking & Service Mesh:** eBPF (Cilium, Calico), Istio, HAProxy, Nginx
+- **CI/CD:** GitLab CI, GitHub Actions, Jenkins
+- **Observability & Reliability:** OpenTelemetry (OTel), Prometheus, Grafana, Loki, VictoriaMetrics, Datadog
+- **Security & Compliance:** HashiCorp Vault (OIDC/mTLS), IAM SCPs, Trivy, SonarQube, OPA
+- **Programming & Scripting:** Golang, Python, Bash
 
 ---
 
-Open to conversations on infra scaling, platform design, or CNCF.
+### 🏆 Competitive Rankings & CTFs
+
+| Platform | Achievement / Event | Ranking | 
+| :--- | :--- | :--- |
+| <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="18"> **HackerRank** | [Project Euler+](https://www.hackerrank.com/results/projecteuler/nvimq) | **Top 0.02%** (#49 of 256,473) |
+| <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="18"> **Hack The Box** | [Cyber Apocalypse CTF 2026](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2026-the-salt-crown-3432) | **Top 7.7%** (#519 of 6,744) |
+| <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="18"> **HackerRank** | [Orchestrate Hackathon (Aug '26)](https://www.hackerrank.com/contests/hackerrank-orchestrate-august26/challenges/message-notification-router/leaderboard?username=nvimq) | **Top 3.6%** (#72 of 1,983) |
+
+*(Plus 70+ completed labs and challenges across HTB, TryHackMe, LeetCode, and LetsDefend - [see full activity](https://nvimq.is-a.dev/#battlegrounds))*
+
+---
+
+### 📜 Certifications
+
+| Issuer | Certification | Verification |
+| :--- | :--- | :---: |
+| <img src="https://cdn.simpleicons.org/linuxfoundation" width="18"> **The Linux Foundation** | Securing Your Software Supply Chain with Sigstore (LFS182) | [Verify](https://www.credly.com/badges/1918465e-2563-4585-bc2d-b5b72f5f1bd0/public_url) |
+| <img src="https://cdn.simpleicons.org/amazonwebservices" width="18"> **Amazon Web Services** | AWS Knowledge: Amazon EKS | [Verify](https://www.credly.com/badges/b6561bf8-188c-438c-bcf0-6c0d83ca6e64/public_url) |
+| <img src="https://cdn.simpleicons.org/amazonwebservices" width="18"> **Amazon Web Services** | AWS Knowledge: Cloud Essentials | [Verify](https://www.credly.com/badges/0631e479-1a35-41ef-b321-77bae0fba07b/public_url) |
+| 🛡️ **Isovalent** | Cilium AI/ML Security | [Verify](https://www.credly.com/badges/72dc398d-25b3-42bd-b47b-aab5e3806a51/) |
+| 🛡️ **Isovalent** | Discovery: SecOps Engineer | [Verify](https://www.credly.com/badges/f9969ae4-5b35-47dc-a1f6-f58b58f1fb4b/public_url) |
+| 🐅 **Tigera** | Certified Calico Operator: eBPF | [Verify](https://courses.academy.tigera.io/certificates/6dbe730cb475457d950ab4b835ffe808) |
+| <img src="https://cdn.simpleicons.org/anthropic" width="18"> **Anthropic** | Claude with Amazon Bedrock | [Verify](https://academy.claude.com/badges/28a38336-8287-4550-a785-f8b15ebe9913) |
+| ⚙️ **Platform Engineering** | Kubernetes Cluster Lifecycle Management | [Verify](https://www.virtualbadge.io/certificate-validator?credential=293c1260-e87a-41a9-8ca5-24c5b76946d7) |
+| ⚙️ **Platform Engineering** | Infrastructure Identity for Platform Engineers | [Verify](https://www.virtualbadge.io/certificate-validator?credential=41d59fc7-e5b4-4be3-b639-43288c43df0b) |
+| <img src="https://cdn.simpleicons.org/docker" width="18"> **Docker** | Docker Foundations Professional Certificate | [Verify](https://www.linkedin.com/learning/certificates/0b3f4aafb30cf50506341a5b9fefc7269ec9397965e70b61b3598cfa6f5072af) |
+| <img src="https://cdn.simpleicons.org/ubuntu" width="18"> **Canonical** | Ubuntu Linux Professional Certificate | [Verify](https://www.linkedin.com/learning/certificates/252da2eda72d434d27c11ef47249229b4075698e330f78e951fe7fc12d10fa0e) |
+| <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="18"> **HackerRank** | Go (Intermediate) & SQL (Advanced) | [Verify](https://www.hackerrank.com/certificates/77f9736ad0f6) |
+| <img src="https://cdn.simpleicons.org/snyk" width="18"> **Snyk** | OWASP Top 10 | [Verify](https://nvimq.is-a.dev/certifications/owasp-top10-snyk.pdf) |
+| <img src="https://cdn.simpleicons.org/ibm" width="18"> **IBM** | System & Network Security / Cybersecurity Fundamentals | [Verify](https://www.credly.com/badges/367d7687-9967-4ed4-995c-edcfb6a6c8e3/public_url) |
+| 🧪 **Gremlin** | Chaos Engineering | [Verify](https://certification.gremlin.com/credentials/2cb26774-b77a-48f7-8324-a3bd2c2d0dba) |
+
+---
+<div align="center">
+  <i>Open to conversations on infra scaling, platform design, or CNCF.</i>
+</div>
