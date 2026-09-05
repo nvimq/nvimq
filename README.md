@@ -61,8 +61,8 @@ My engineering philosophy is simple: Infrastructure as Code starts every system,
 | Issuer | Certification | Verification |
 | :--- | :--- | :---: |
 | <img src="https://cdn.simpleicons.org/linuxfoundation" width="18"> **The Linux Foundation** | Securing Your Software Supply Chain with Sigstore (LFS182) | [Verify](https://www.credly.com/badges/1918465e-2563-4585-bc2d-b5b72f5f1bd0/public_url) |
-| <img src="https://cdn.simpleicons.org/amazonwebservices" width="18"> **Amazon Web Services** | AWS Knowledge: Amazon EKS | [Verify](https://www.credly.com/badges/b6561bf8-188c-438c-bcf0-6c0d83ca6e64/public_url) |
-| <img src="https://cdn.simpleicons.org/amazonwebservices" width="18"> **Amazon Web Services** | AWS Knowledge: Cloud Essentials | [Verify](https://www.credly.com/badges/0631e479-1a35-41ef-b321-77bae0fba07b/public_url) |
+| <img src="https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=64" width="18"> **Amazon Web Services** | AWS Knowledge: Amazon EKS | [Verify](https://www.credly.com/badges/b6561bf8-188c-438c-bcf0-6c0d83ca6e64/public_url) |
+| <img src="https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=64" width="18"> **Amazon Web Services** | AWS Knowledge: Cloud Essentials | [Verify](https://www.credly.com/badges/0631e479-1a35-41ef-b321-77bae0fba07b/public_url) |
 | <img src="https://www.google.com/s2/favicons?domain=isovalent.com&sz=64" width="18"> **Isovalent** | Cilium AI/ML Security | [Verify](https://www.credly.com/badges/72dc398d-25b3-42bd-b47b-aab5e3806a51/) |
 | <img src="https://www.google.com/s2/favicons?domain=isovalent.com&sz=64" width="18"> **Isovalent** | Discovery: SecOps Engineer | [Verify](https://www.credly.com/badges/f9969ae4-5b35-47dc-a1f6-f58b58f1fb4b/public_url) |
 | <img src="https://nvimq.is-a.dev/uploads/tigera_logo.png" width="18"> **Tigera** | Certified Calico Operator: eBPF | [Verify](https://courses.academy.tigera.io/certificates/6dbe730cb475457d950ab4b835ffe808) |
